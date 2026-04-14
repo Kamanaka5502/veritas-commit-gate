@@ -1,9 +1,9 @@
 
-Veritas Clinical Commit Gate v1.3.2
+## Veritas Clinical Commit Gate v1.3.2
 
-Flow:
+# Flow:
 propose -> sign-off -> commit -> decision -> receipt -> replay
 
-Decision wording:
+# Decision wording:
 If admissible -> EXECUTE
 If not admissible -> REFUSE
